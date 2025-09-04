@@ -1,0 +1,26 @@
+{
+  "start_row": 4,
+  "stop_row": null,
+  "percent_format": "0.00%",
+  "columns": {
+    "Y":  "Y",
+    "Z":  "Z",
+    "D":  "D",
+    "AD": "AD",
+    "AA": "AA",
+    "AB": "AB",
+    "AE": "AE",
+    "AF": "AF",
+    "AG": "AG"
+  },
+  "autodetect": {
+    "enabled": true,
+    "header_row": 3,
+    "header_keywords": {
+      "Y":  ["บัญชี 1","บัญชี1","account1"],
+      "Z":  ["บัญชี 2","บัญชี2","account2"],
+      "D":  ["พรบปี69","พรบ 69","พ.ร.บ.69","พ.ร.บ. 69"],
+      "AD": ["บัญชี 1+2+3","บัญชี1+2+3","account123"]
+    }
+  }
+}

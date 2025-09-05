@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import argparse, json, re
 from pathlib import Path
 from openpyxl import load_workbook
